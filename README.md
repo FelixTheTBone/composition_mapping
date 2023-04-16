@@ -16,6 +16,8 @@ Here $Map_{max}$ refers to the maximum of the map overall, which can be noise or
 To be populated in due time
 
 ![Al composition map of example data (export).](https://github.com/FelixTheTBone/composition_mapping/blob/main/export/Al%20K%20series.png)
+![Ni composition map of example data (export).](https://github.com/FelixTheTBone/composition_mapping/blob/main/export/Ni%20K%20series.png)
+![Nb composition map of example data (export).](https://github.com/FelixTheTBone/composition_mapping/blob/main/export/Nb%20L%20series.png)
 
 
 ## Input & export
