@@ -1,6 +1,10 @@
 # Composition mapping script
 ## Overview
-To be populated in due time
+This repository provides a simple python script to plot compositional 2D maps obtained, e.g. from EDXS or EPMA. 
+It is far from perfect, so please use responsibly. I will try and make improvements with time, and see it as a small project to improve and learn.
+I have been using it predominantly with Linux but it should be quite platform agnostic.
+
+Feel free to let me know any potential improvements or bugs that need figuring out, cheers. 
 
 
 ## Calculations
@@ -13,9 +17,14 @@ Here $Map_{max}$ refers to the maximum of the map overall, which can be noise or
 
 
 ## Example data
-To be populated in due time
+The folder 'input' contains a set of example data. In its current format the script is adding a scale bar in the first map only.
+Here is an example of the Al map, acknowledgements to matplotlib-scalebar.
 
 ![Al composition map of example data (export).](https://github.com/FelixTheTBone/composition_mapping/blob/main/export/Al%20K%20series.png)
+
+The following maps will be plotted without scalebar, in most use cases it would be unnecessary to have it in each map.
+Here are two examples of a Ni map and a Nb map, respectively.
+
 ![Ni composition map of example data (export).](https://github.com/FelixTheTBone/composition_mapping/blob/main/export/Ni%20K%20series.png)
 ![Nb composition map of example data (export).](https://github.com/FelixTheTBone/composition_mapping/blob/main/export/Nb%20L%20series.png)
 
