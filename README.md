@@ -25,7 +25,7 @@ Here is an example of the Al map, acknowledgements to matplotlib-scalebar.
 The following maps will be plotted without scalebar, in most use cases it would be unnecessary to have it in each map.
 Here are two examples of a Ni map and a Nb map, respectively.
 
-![Ni composition map of example data (export).](https://github.com/FelixTheTBone/composition_mapping/blob/main/export/Ni%20K%20series.png)
+![Ni composition map of example data (export).](https://github.com/FelixTheTBone/composition_mapping/blob/main/export/Ni%20L%20series.png)
 ![Nb composition map of example data (export).](https://github.com/FelixTheTBone/composition_mapping/blob/main/export/Nb%20L%20series.png)
 
 
