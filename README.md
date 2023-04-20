@@ -30,7 +30,8 @@ Here are two examples of a Ni map and a Nb map, respectively.
 
 
 ## Input & export
+In its current version the script uses headerless, tab-separated .csv files as input. Should your files contain metadata headers, just adapt the read_data function. Output files are currently saved as .png file. This is not best practice and will be changed shortly. I found the formats .eps or .svg usually work the best to build figure files. 
 
 
 ## Citing
-
+There is currently no publication linked to this function. I will update this section once there are papers published using this or earlier versions.
