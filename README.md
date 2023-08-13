@@ -34,4 +34,4 @@ In its current version the script uses headerless, tab-separated .csv files as i
 
 
 ## Citing
-There is currently no publication linked to this function. I will update this section once there are papers published using this or earlier versions.
+[1] Theska, F., Street, S. R., Lison-Pick, M., & Primig, S. (2023). Grain boundary microstructure-property relationships in the cast & wrought Ni-based superalloy René 41 with boron and carbon additions. Acta Materialia, 119235.
